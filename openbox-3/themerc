@@ -1,5 +1,6 @@
-# Name: Numix Openbox theme
-# Author: Satyajit Sahoo <satyajit.happy@gmail.com>
+# Name: BlackSand Openbox theme
+# Author: yt <yt@ytyt.yt>
+# Modified from Numix (Author: Satyajit Sahoo <satyajit.happy@gmail.com)
 # License: GPL-3.0+
 
 
@@ -9,7 +10,7 @@ menu.border.color: #2d2d2d
 menu.title.bg: flat solid
 menu.title.bg.color: #2d2d2d
 menu.title.text.color: #dcdcdc
-menu.title.text.justify: center
+menu.title.text.justify: left
 
 menu.items.bg: flat solid
 menu.items.bg.color: #2d2d2d
@@ -17,7 +18,7 @@ menu.items.text.color: #dcdcdc
 menu.items.disabled.text.color: #888888
 
 menu.items.active.bg: flat solid
-menu.items.active.bg.color: #d64937
+menu.items.active.bg.color: #6a8dca
 menu.items.active.text.color: #f9f9f9
 
 menu.separator.color: #262626
@@ -32,7 +33,7 @@ window.active.border.color: #484848
 window.active.title.bg: flat solid
 window.active.title.bg.color: #2d2d2d
 window.active.title.separator.color: #2d2d2d
-window.active.text.justify: center
+window.active.text.justify: right
 
 window.active.label.bg: parentrelative
 window.active.label.text.color: #dcdcdc
@@ -49,7 +50,7 @@ window.active.button.unpressed.image.color: #dcdcdc
 
 window.active.button.pressed.bg: flat solid
 window.active.button.pressed.bg.color: #2d2d2d
-window.active.button.pressed.image.color: #d64937
+window.active.button.pressed.image.color: #6a8dca
 
 window.active.button.disabled.bg: flat solid
 window.active.button.disabled.bg.color: #2d2d2d
@@ -62,7 +63,7 @@ window.inactive.border.color: #393939
 window.inactive.title.bg: flat solid
 window.inactive.title.bg.color: #2d2d2d
 window.inactive.title.separator.color: #2d2d2d
-window.inactive.text.justify: center
+window.inactive.text.justify: right
 
 window.inactive.label.bg: parentrelative
 window.inactive.label.text.color: #888888
@@ -79,7 +80,7 @@ window.inactive.button.unpressed.image.color: #888888
 
 window.inactive.button.pressed.bg: flat solid
 window.inactive.button.pressed.bg.color: #2d2d2d
-window.inactive.button.pressed.image.color: #d64937
+window.inactive.button.pressed.image.color: #6a8dca
 
 window.inactive.button.disabled.bg: flat solid
 window.inactive.button.disabled.bg.color: #2d2d2d
@@ -97,7 +98,7 @@ osd.label.bg.color: #2d2d2d
 osd.label.text.color: #dcdcdc
 
 osd.hilight.bg: flat solid
-osd.hilight.bg.color: #d64937
+osd.hilight.bg.color: #6a8dca
 
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #888888
@@ -114,7 +115,7 @@ osd.button.focused.bg: flat solid border
 osd.button.focused.bg.color: #303030
 osd.button.focused.*.border.color: #1e1e1e
 
-osd.button.focused.box.color: #d64937
+osd.button.focused.box.color: #6a8dca
 
 
 # Fonts
@@ -130,4 +131,4 @@ padding.width: 8
 padding.height: 4
 window.handle.width: 0
 window.client.padding.width: 0
-window.label.text.justify: center
+window.label.text.justify: right
